@@ -9,6 +9,7 @@ class TasksIO:
         self.task = task
 
     def gen_file(self, task):
+        """dynamically creates file for storage"""
         file_name = f'{task}'
         return file_name
 
