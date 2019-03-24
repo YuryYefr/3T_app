@@ -1,0 +1,7 @@
+1.No need to explain currency, just integrated to show courses for 1 day
+2.Database - creating an sqlite db, using in main module when creating tasks/trackers
+3.Logic - our main file to initiate, system control created for changing files if user is admin
+4.Main objects - listing files that stores in database, task/tracker/users creating, timer operations
+and serialize/deserialize created objects
+5.Storage - place where our created objects stored
+                    I'll be grateful for feedback!
