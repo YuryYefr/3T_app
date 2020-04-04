@@ -1,4 +1,7 @@
-from core_classes.logic import *
+from core_classes.logic.main import *
 
 if __name__ == "__main__":
-    run_prog()
+    user_name()
+
+
+
